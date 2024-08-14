@@ -66,5 +66,5 @@ This script was developed and tested in a Python environment.
 This game is intended for entertainment purposes and does not guarantee the accuracy of probabilities or the absence of bugs.
 
 ## Authors
-Karan Ganeshwala B22ES019
-Yash Golani B22ME072  
+-Karan Ganeshwala B22ES019
+-Yash Golani B22ME072  
